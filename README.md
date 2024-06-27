@@ -1,2 +1,2 @@
 # Genius-Arduino
-Repositório utilizado para guardar o segundo trabalho realizado na disciplina de  para Computação. 
+Projeto realizado para a disciplina '[SSC0180] – Eletrônica para Computação', ministrada pelo professor Eduardo do Valle Simões. Neste projeto,  
