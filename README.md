@@ -14,8 +14,8 @@ Projeto realizado para a disciplina '[SSC0180] – Eletrônica para Computação
 Reproduzir o jogo "Genius" com Arduíno.
 
 # Esquema no Tinkercad
-foto
+>  ![](img/genius_tinkercad.png)
 
 # Jogo na protoboard
-foto
+>  ![](img/genius_protoboard.jpg)
 
