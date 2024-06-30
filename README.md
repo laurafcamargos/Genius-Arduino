@@ -17,17 +17,14 @@ Reproduzir o jogo "Genius" com Arduíno.
 | Quantidade  | Componente  | Especificações   | Valor  |
 |---|---|---|---|
 | 1 | Protoboard | BB-01 400P |R$21,70|
-| 10 | Diodo Retificador | Ponte de Diodo 1N4007 |R$2,00| 
-| 1 | Capacitor | 470µF, 35V |R$2,80|
+| 1 | LED | Amarelo 5mm |R$0,50|
+| 1 | LED | Azul 5mm |R$1,00|
+| 1 | LED | Verde 5mm |R$0,50|
 | 1 | LED | Vermelho 5mm |R$0,50|
-| 1 | Diodo Zener |1N4743 13V, 1W |R$0,50|
-| 1 | Potenciômetro | 1W B5K B-16 |R$7,00|
-| 10 | Resistor CR25 100 | 100Ω |R$0,70|
-| 10 | Resistor CR25 820 | 820Ω |R$0,70|
-| 10 | Resistor CR25 1k | 1000Ω |R$0,70|
-| 10 | Resistor CR25 1.8k | 1800Ω |R$0,70|
-| 1 | Transistor 2N3904 | 60V, 0,2A 0,650W |R$1,60|
-| Total | | |R$38,90|
+| 10 | Resistor CR25 220 | 220Ω |R$0,70|
+| 1 | BUZZER | 12A, 7V |R$9,50|
+| 4 | BOTÃO | 6x6x4,3mm |R$2,00|
+| Total | | |R$36,40|
 
 # Esquema no Tinkercad
 >  ![](img/genius_tinkercad.png)
@@ -35,4 +32,4 @@ Reproduzir o jogo "Genius" com Arduíno.
 # Jogo na protoboard
 >  ![](img/genius_protoboard.jpg)
 
-# [Vídeo do projeto sendo testado](https://youtube.com/shorts/sAaO8kVuVUg?feature=shared)
+### [Vídeo do projeto sendo testado](https://youtube.com/shorts/sAaO8kVuVUg?feature=shared)
